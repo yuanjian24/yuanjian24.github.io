@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jian Yuan / Homepage"
 title_separator          : "-"
 name                     : &name "Jian Yuan"
 description              : &description "Ph.D. Candidate"
