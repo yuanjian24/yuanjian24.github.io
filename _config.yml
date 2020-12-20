@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Yuan - Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jian Yuan"
 description              : &description "Ph.D. Candidate"
@@ -82,8 +82,11 @@ analytics:
 # Site Author
 author:
   name             : "Jian Yuan"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate | College of Transportation Engineering | Tongji University"
+  avatar           : "yuanjian.jpg"
+  bio              : |
+    Ph.D. Candidate <br>
+    College of Transportation Engineering <br>
+    Tongji University <br>
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -256,7 +259,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
