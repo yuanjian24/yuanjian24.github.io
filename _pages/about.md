@@ -12,9 +12,9 @@ Hi, I am a Ph.D. Candidate at the College of Transportation Engineering, Tongji 
 
 My  current research centers on the area of data-driven urban transportation system modeling. I am interested in employing graph theory, statistics, and artificial intelligence into transportation system modeling.
 
-E-mail: yuan_jian@tongji.edu.cn / jian.yuan@mail.mcgill.ca
+**E-mail**: yuan_jian@tongji.edu.cn / jian.yuan@mail.mcgill.ca
 
-My research team: https://magic.tongji.edu.cn/
+**My research team**: https://magic.tongji.edu.cn/
 
 
 
@@ -39,12 +39,11 @@ My research team: https://magic.tongji.edu.cn/
 
 ## Academic Activities
 
-[1] The 98th TRB Annual Meeting (January 13~17, 2019 | Washington, USA)
+[1] The 98th Annual Meeting of Transportation Research Board (TRB, January 13~17, 2019,  Washington, USA)
 
 Post presentation: Driver back-tracing based on automated vehicle identification data
 
-[2] Kyoto Univ. & Tongji Univ. Joint Seminar on Urban and Transportation Management for Sustainable Society (December 10, 2019 | Kyoto, Japan)
+[2] Kyoto Univ. & Tongji Univ. Joint Seminar on Urban and Transportation Management for Sustainable Society (December 10, 2019, Kyoto, Japan)
 
-Main seminar organizer | Post presentation: Tracing Traffic Congestion in Urban Road Networks
-
+Main seminar organizer, Post presentation: Tracing Traffic Congestion in Urban Road Networks
 
