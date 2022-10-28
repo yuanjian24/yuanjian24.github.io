@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate at the College of Transportation Engineering, Tongji University. Currently, I am on my one-year visiting at McGill University. I received my Bachelor degree in Transportation Engineering from Chang'an University. 
+Hi, I am a Ph.D. Candidate at the College of Transportation Engineering, Tongji University. Currently, I am on my one-year visiting at McGill University. I received my Bachelor degree in Transportation Engineering from Chang'an University. 
 
 My  current research centers on the area of data-driven urban transportation system modeling. I am interested in employing graph theory, statistics, and artificial intelligence into transportation system modeling.
 
 E-mail: yuan_jian@tongji.edu.cn / jian.yuan@mail.mcgill.ca
 
+My research team: https://magic.tongji.edu.cn/
 
 
-# Publications
+
+## Publications
 
 ### Journal
 
@@ -33,5 +35,16 @@ E-mail: yuan_jian@tongji.edu.cn / jian.yuan@mail.mcgill.ca
 
 [1] **Yuan J**, Li L, Ma W. Robustness Analysis of Budget-Constrained Route Flow Observability Problem[M]//CICTP 2021. 2021: 2494-2503.
 
+
+
+## Academic Activities
+
+[1] The 98th TRB Annual Meeting (January 13~17, 2019 | Washington, USA)
+
+Post presentation: Driver back-tracing based on automated vehicle identification data
+
+[2] Kyoto Univ. & Tongji Univ. Joint Seminar on Urban and Transportation Management for Sustainable Society (December 10, 2019 | Kyoto, Japan)
+
+Main seminar organizer | Post presentation: Tracing Traffic Congestion in Urban Road Networks
 
 
