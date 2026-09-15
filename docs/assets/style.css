@@ -184,3 +184,8 @@ html{scroll-behavior:smooth}
 .container > .contact-strip .email-copy{font-size:14px}
 .contact-page .contact-actions .email-copy{font-size:15px}
 @media(max-width:500px){.container > .contact-strip .email-copy,.contact-page .contact-actions .email-copy{font-size:14px}}
+
+/* Preserve the formal portrait's original vertical proportions. */
+.portrait-guard{flex:0 0 164px;width:164px;height:auto;aspect-ratio:1607/2121}
+.portrait-guard .portrait{width:100%;height:auto;aspect-ratio:1607/2121;object-fit:contain}
+@media(max-width:500px){.portrait-guard{flex-basis:116px;width:116px;height:auto}.portrait-guard .portrait{width:100%;height:auto}}
